@@ -1,4 +1,4 @@
-@url = https://paastest01ms.azurewebsites.net
+@url = https://paastest01sf.azurewebsites.net
 #@url = http://20.203.171.101
 
 ### Get all students
